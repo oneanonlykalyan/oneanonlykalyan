@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Kalyan Kalavena
 
-<!--
-**oneanonlykalyan/oneanonlykalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 DevSecOps Intern | 🌐 Cloud, CI/CD & Security Explorer  
+🛠️ Hands-on with AWS, Terraform, Ansible, Docker, Kubernetes & GitHub Actions  
+✍️ Blogging what I learn. Building real-world infra one step at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Projects (Coming Soon)
+
+- **Roboshop DevSecOps** – Full infra setup with IaC, Containers & CI/CD
+- **Expense Tracker** – Dockerized app deployed with GitHub Actions
+- **K8s Monitoring Stack** – Prometheus + Grafana + Loki + Alertmanager
+
+---
+
+## 📘 Blog Snippets
+
+- [Linux for DevOps](https://kalyankalavena.blogspot.com/2024/06/linux-basics-for-devops.html) 
+→ [All Posts](https://kalyankalavena.blogspot.com/)
+
+---
+
+## 🌐 Connect
+
+[LinkedIn](https://www.linkedin.com/in/kalyankalavena/) • [Blog](https://kalyankalavena.blogspot.com/)
+
+> 🚧 Building. Documenting. Improving — one commit at a time.
+
 -->
