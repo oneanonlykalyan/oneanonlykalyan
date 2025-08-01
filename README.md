@@ -23,7 +23,7 @@
 
 ## 🌐 Connect
 
-[LinkedIn](https://www.linkedin.com/in/kalyankalavena/) • [Blog](https://kalyankalavena.blogspot.com/)
+[LinkedIn](https://www.linkedin.com/in/kalyan-kalavena-90b8a0346/) • [Blog](https://draft.blogger.com/profile/11744249549140419341)
 
 > 🚧 Building. Documenting. Improving — one commit at a time.
 
