@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Kalyan Kalavena
+# 👋 Hi, I'm Kalyan Kalavena,
 
 🔐 DevSecOps Intern | 🌐 Cloud, CI/CD & Security Explorer  
 🛠️ Hands-on with AWS, Terraform, Ansible, Docker, Kubernetes & GitHub Actions  
 ✍️ Blogging what I learn. Building real-world infra one step at a time.
 
----
+-----
 
 ## 🚀 Projects (Coming Soon)
 
